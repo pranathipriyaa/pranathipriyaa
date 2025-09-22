@@ -1,7 +1,7 @@
 <h1 style="color:#00008B; font-size:32px;">Pranathi Priya</h1> <hr style="height:2px; background-color:#00008B; border:none;">
-- I’m interested in programming and data analytics. Hence, I'm doing a Masters's in it.
-- I’m currently learning Django, Javascript, and front-end, back-end of our project.
-- I’m looking to collaborate on doing a project
+<p>
+  Currently working as a <strong>Graduate Student Assistant</strong> and actively seeking <strong>full-time opportunities</strong> in <strong>Data Analytics</strong>.
+</p>
 - Pronouns: She/Her
 - I'm currently doing a project on International Students Community Platform along with my teammates at our Univerity. There are many difficulties which international students face even in this fast paced technological world. Some of them would be finding new friends, building network, culture shock, language barrier, and finding a place to live. Hence, our project aims to establish a trust worthy platform where living abroad becomes less stressful/complicated for the international students. Here the International students can form connections with peers from around the world. The intended audience consists of overseas students who are attempting to adjust and make a fresh start.
 We are creating a website and the basic operations will be signing-in with the user credentials and on a login page. The new users can log in and express their needs and the existing users can assist new users by communicating. In order to secure the confidentiality of the conversation, we included privacy options such as "private," "public," and "only me."

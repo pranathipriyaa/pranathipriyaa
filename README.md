@@ -1,5 +1,4 @@
-<h1 style="color:#00008B; font-size:32px;">Pranathi Priya</h1>
-<hr style="height:2px; background-color:#00008B; border:none;">
+<h1 style="color:#00008B; font-size:32px;">Pranathi Priya</h1> <hr style="height:2px; background-color:#00008B; border:none;">
 - I’m interested in programming and data analytics. Hence, I'm doing a Masters's in it.
 - I’m currently learning Django, Javascript, and front-end, back-end of our project.
 - I’m looking to collaborate on doing a project

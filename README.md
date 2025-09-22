@@ -1,4 +1,4 @@
-<span style="color:#1e90ff">Pranathi Priya</span>
+<span style="color:#1e90ff">Pranathi Priya</span> <p style="font-size:32px; color:Blue;">
 - I’m interested in programming and data analytics. Hence, I'm doing a Masters's in it.
 - I’m currently learning Django, Javascript, and front-end, back-end of our project.
 - I’m looking to collaborate on doing a project

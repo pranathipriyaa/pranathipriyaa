@@ -8,7 +8,15 @@
 
 **Data Analyst | Reporting | Visualization | Data-Driven Insights**
 
-Currently working as a **Graduate Student Assistant** and actively seeking **full-time opportunities** in **Data Analytics**.
+<p style="font-size:20px; font-weight:bold;">Graduate Student Assistant @ SUNY Albany</p>
+
+<ul>
+  <li>Focused on transforming data into actionable business insights</li>
+  <li>Experienced in building automated reports and interactive dashboards using Power BI and Excel</li>
+  <li>Skilled in SQL, Python, and data visualization for performance tracking and decision support</li>
+  <li>Collaborating with academic departments to streamline data processes and reporting workflows</li>
+  <li>Actively seeking full-time opportunities in data analytics to deliver value through data-driven solutions</li>
+</ul>
 
 - I'm currently doing a project on International Students Community Platform along with my teammates at our Univerity. There are many difficulties which international students face even in this fast paced technological world. Some of them would be finding new friends, building network, culture shock, language barrier, and finding a place to live. Hence, our project aims to establish a trust worthy platform where living abroad becomes less stressful/complicated for the international students. Here the International students can form connections with peers from around the world. The intended audience consists of overseas students who are attempting to adjust and make a fresh start.
 We are creating a website and the basic operations will be signing-in with the user credentials and on a login page. The new users can log in and express their needs and the existing users can assist new users by communicating. In order to secure the confidentiality of the conversation, we included privacy options such as "private," "public," and "only me."

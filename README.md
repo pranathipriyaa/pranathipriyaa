@@ -8,8 +8,6 @@
 
 **Data Analyst | Reporting | Visualization | Data-Driven Insights**
 
-<p style="font-size:20px; font-weight:bold;">Graduate Student Assistant @ SUNY Albany</p>
-
 <ul>
   <li>Focused on transforming data into actionable business insights</li>
   <li>Experienced in building automated reports and interactive dashboards using Power BI and Excel</li>

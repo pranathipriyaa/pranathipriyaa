@@ -1,7 +1,8 @@
 <h1 style="color:#00008B; font-size:32px;">Pranathi Priya</h1> <hr style="height:2px; background-color:#00008B; border:none;">
 
-Graduate Student Assistant @ SUNY Albany 
-Data Analyst | Reporting | Visualization | Data-Driven Insights
+**Graduate Student Assistant @ SUNY Albany**
+
+**Data Analyst | Reporting | Visualization | Data-Driven Insights**
 
 Currently working as a **Graduate Student Assistant** and actively seeking **full-time opportunities** in **Data Analytics**.
 

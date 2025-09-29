@@ -15,5 +15,4 @@
 
 <h3 style="color:#00008B; font-size:12px;">Projects I've Worked On</h3>
 
- Amazon-Sales-Analysis
 
